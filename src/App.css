@@ -31,3 +31,16 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  text-align: center;
+  color: aliceblue;
+  background-color: #282c34;
+    height: 40vmin;
+    pointer-events: none;
+  }
+ul{
+  text-align: center;
+  color: lightgoldenrodyellow;
+
+}
